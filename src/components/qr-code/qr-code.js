@@ -18,7 +18,7 @@ const QrCode = () => {
                 <QRCode value={codeName} />
             </div>
             <div className="row mx-auto justify-content-center pt-3">
-                <div className="col-3">
+                <div className="col-auto">
                     <div className="form-group">
                         <input 
                             type="text"
