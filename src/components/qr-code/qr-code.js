@@ -27,7 +27,7 @@ const QrCode = () => {
                             onChange={handleChange}
                             className="form-control" 
                             id="name" 
-                            placeholder="Enter first name"
+                            placeholder="Enter website name"
                         />
                     </div>
                     <div className="form-group pt-3">
